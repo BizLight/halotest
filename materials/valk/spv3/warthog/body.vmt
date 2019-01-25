@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valk/SPV3/Warthog/Body_d"
+	"$bumpmap" "valk/SPV3/Warthog/Body_n"
+	"$blendTintByBaseAlpha" "1"
+	"$color2" "[1 1 1]"
+	"$AmbientOcclusion" "1"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$PhongExponent" "4"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponenttexture" "valk/SPV3/Warthog/phongexp255"
+
+	"$detail" "valk/SPV3/Warthog/detail_paint"
+	"$detailscale" "20"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "0"
+
+}

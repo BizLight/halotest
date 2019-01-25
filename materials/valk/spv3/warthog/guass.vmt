@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valk/SPV3/Warthog/guass_d"
+	"$bumpmap" "valk/SPV3/Warthog/guass_n"
+	"$blendTintByBaseAlpha" "1"
+	"$color2" "[1 1 1]"
+	"$AmbientOcclusion" "1"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongalbedotint" "20"
+	"$phongfresnelranges" "[3 1 20]"
+	"$phongexponenttexture" "valk/SPV3/Warthog/phongexp255"
+
+	"$detail" "valk/SPV3/Warthog/detail_paint"
+	"$detailscale" "20"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "0"
+
+}

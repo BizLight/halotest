@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valk/SPV3/Warthog/troop2_d"
+	"$blendTintByBaseAlpha" "1"
+	"$color2" "[1 1 1]"
+	"$AmbientOcclusion" "1"
+
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$PhongExponent" "2"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[3 1 20]"
+	"$phongexponenttexture" "valk/SPV3/Warthog/phongexp255"
+
+}
